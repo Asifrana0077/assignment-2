@@ -1,0 +1,58 @@
+
+
+.div1{
+    display: flex;
+}
+.p1{
+    width: 40%;
+   
+}
+.img1{
+    width: 25%;
+}
+
+.arrow{
+    display: flex;
+    width: 10%;
+    border-radius: 15px;
+    background-color: red;
+
+}
+.arrow{
+    margin-bottom: 30px;
+}
+.link1{
+   
+ 
+    text-decoration: none;
+    color: wheat;
+    margin-left: 15px;
+  
+}
+hr{
+ border: 1px solid gray;
+}
+.tripod font{
+    font-size: 15px;
+}
+.tripod img{
+    width: 20%;
+    padding-left: 50px;
+}
+.line2{
+    display: flex;
+    margin-left: 100px;
+}
+.fas.fa-star{
+    color: yellow;
+}
+.fas.fa-star.empty{
+    color: grey;
+}
+
+.see-more{
+     text-decoration: none;
+     color: red;
+     padding: 100px;
+}
+
