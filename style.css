@@ -121,6 +121,8 @@ hr{
   }
   footer {
       text-align: center;
+      color: white;
+      background-color: rgb(30, 28, 49);
 
   }
 
