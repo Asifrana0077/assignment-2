@@ -24,19 +24,30 @@
 .link1{
    
  
-    text-decoration: none;
-    color: wheat;
-    margin-left: 15px;
+    padding: 10px 24px;
+    width: 196px;
+    height: 44px;
+    background: #e02c6d;
+    border-radius: 41px;
+    border: none;
   
+}
+
+.link1 a{
+    text-decoration: none;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+
 }
 hr{
  border: 1px solid gray;
 }
 .tripod font{
-    font-size: 15px;
+    font-size: 15px;............
 }
 .tripod img{
-    width: 20%;
+    width: 90%;
     padding-left: 50px;
 }
 .line2{
